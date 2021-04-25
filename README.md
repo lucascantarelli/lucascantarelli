@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @lucascantarelli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Lucas Cantarelli ! :D
 
-<!---
-lucascantarelli/lucascantarelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucascantarelli)](https://github.com/lucascantarelli)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucascantarelli/)](www.linkedin.com/in/lucascantarelli)
+
