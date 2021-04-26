@@ -8,6 +8,6 @@ O que encontramos por aqui:
 
 - <a href="https://pt.wikipedia.org/wiki/DevOps">![DevOps](https://img.shields.io/badge/DevOps-Culture-green?style=plastic&logo=azuredevops)</a>
 - <a href="https://hub.docker.com/_/alpine">![Alpine](https://img.shields.io/badge/Alpine-alpine%3Alatest-blue?style=plastic&logo=linux)</a>
-- <a href="https://hub.docker.com/_/ubuntu">![Linux](https://img.shields.io/badge/Linux-Ubuntu--20.04.2-orange?style=plastic&logo=linux)</a>
+- <a href="https://hub.docker.com/_/ubuntu">![Ubuntu](https://img.shields.io/badge/Ubuntu-ubuntu%3Alatest-orange?style=plastic&logo=linux)</a>
 - <a href="https://www.docker.com/">![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=plastic&logo=docker)
 - <a href="https://docs.docker.com/get-started/swarm-deploy/">![Docker](https://img.shields.io/badge/Swarm-Stacks-blue?style=plastic&logo=swarm)
