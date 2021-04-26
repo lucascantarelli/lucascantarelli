@@ -10,4 +10,7 @@ O que encontramos por aqui:
 - <a href="https://hub.docker.com/_/alpine">![Alpine](https://img.shields.io/badge/Alpine-alpine%3Alatest-blue?style=plastic&logo=linux)</a>
 - <a href="https://hub.docker.com/_/ubuntu">![Ubuntu](https://img.shields.io/badge/Ubuntu-ubuntu%3Alatest-orange?style=plastic&logo=linux)</a>
 - <a href="https://www.docker.com/">![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=plastic&logo=docker)
-- <a href="https://docs.docker.com/get-started/swarm-deploy/">![Docker](https://img.shields.io/badge/Swarm-Stacks-blue?style=plastic&logo=swarm)
+- <a href="https://docs.docker.com/get-started/swarm-deploy/">![Swarm](https://img.shields.io/badge/Swarm-Stacks-blue?style=plastic&logo=swarm)
+- <a href="https://hub.docker.com/_/python">![Python](https://img.shields.io/badge/Python-python%3A3.9-yellow?style=plastic&logo=python)
+- <a href="https://flask.palletsprojects.com/en/1.1.x/">![Flask](https://img.shields.io/badge/Flask-flask--1.1.2-lightgrey?style=plastic&logo=flask)
+- <a href="https://flask.palletsprojects.com/en/1.1.x/">![Docker](https://img.shields.io/badge/Flask-flask--1.1.2-lightgrey?style=plastic&logo=flask)
