@@ -7,6 +7,7 @@ Atualmente trabalhando com <a href="https://www.mysql.com/">MySql</a>, migraçã
 O que encontramos por aqui: 
 
 - <a href="https://pt.wikipedia.org/wiki/DevOps">![DevOps](https://img.shields.io/badge/DevOps-Culture-green?style=plastic&logo=azuredevops)</a>
+- ![Alpine](https://img.shields.io/badge/Alpine-alpine%3Alatest-blue?style=plastic&logo=alpine)
 - <a href="https://releases.ubuntu.com/20.04/">![Linux](https://img.shields.io/badge/Linux-Ubuntu--20.04.2-orange?style=plastic&logo=linux)</a>
 - <a href="https://www.docker.com/">![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=plastic&logo=docker)
 - <a href="https://docs.docker.com/get-started/swarm-deploy/">![Docker](https://img.shields.io/badge/Swarm-Stacks-blue?style=plastic&logo=swarm)
