@@ -4,9 +4,9 @@
 
 Atualmente trabalhando com <a href="https://www.mysql.com/">MySql</a>, migração de dados e gestão do atendimento ao cliente.
 
-O que encontramos por aqui:
+O que encontramos por aqui: 
 
-- ![DevOps](https://img.shields.io/badge/DevOps-Culture-green?style=plastic&logo=azuredevops)
+- <a href="https://pt.wikipedia.org/wiki/DevOps">![DevOps](https://img.shields.io/badge/DevOps-Culture-green?style=plastic&logo=azuredevops)</a>
 - ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=plastic&logo=linux)
 
 
