@@ -7,6 +7,6 @@ Atualmente trabalhando com <a href="https://www.mysql.com/">MySql</a>, migraçã
 O que encontramos por aqui: 
 
 - <a href="https://pt.wikipedia.org/wiki/DevOps">![DevOps](https://img.shields.io/badge/DevOps-Culture-green?style=plastic&logo=azuredevops)</a>
-- ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=plastic&logo=linux)
+- <a href="https://releases.ubuntu.com/20.04/">![Linux](https://img.shields.io/badge/Linux-Ubuntu--20.04.2-orange?style=plastic&logo=linux)</a>
 
 
