@@ -7,8 +7,8 @@ Atualmente trabalhando com <a href="https://www.mysql.com/">MySql</a>, migraçã
 
 O que encontramos por aqui:
 
-[![DevOps](https://img.shields.io/badge/DevOps-Culture-green)
-[![GitHub contributors](https://img.shields.io/github/contributors/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/graphs/contributors) 
+![DevOps](https://img.shields.io/badge/DevOps-Culture-green)
+
 - Linux
 - Python
 - Docker
