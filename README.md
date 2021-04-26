@@ -13,4 +13,4 @@ O que encontramos por aqui:
 - <a href="https://docs.docker.com/get-started/swarm-deploy/">![Swarm](https://img.shields.io/badge/Swarm-Stacks-blue?style=plastic&logo=swarm)
 - <a href="https://hub.docker.com/_/python">![Python](https://img.shields.io/badge/Python-python%3A3.9-yellow?style=plastic&logo=python)
 - <a href="https://flask.palletsprojects.com/en/1.1.x/">![Flask](https://img.shields.io/badge/Flask-flask--1.1.2-lightgrey?style=plastic&logo=flask)
-- <a href="https://flask.palletsprojects.com/en/1.1.x/">![Docker](https://img.shields.io/badge/Flask-flask--1.1.2-lightgrey?style=plastic&logo=flask)
+- <a href="https://code.visualstudio.com/">![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-vs--code-blue?style=plastic&logo=visualstudiocode)
