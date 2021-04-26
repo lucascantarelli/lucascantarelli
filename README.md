@@ -1,3 +1,4 @@
+
 # Hi, I'm Lucas Cantarelli !
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucascantarelli?tab=repositories)
+![linkedin](https://user-images.githubusercontent.com/15838096/116095533-e3086380-a67e-11eb-8f49-dad8693e5213.png)(https://www.linkedin.com/in/lucascantarelli/)
