@@ -7,5 +7,6 @@ Atualmente trabalhando com <a href="https://www.mysql.com/">MySql</a>, migraçã
 O que encontramos por aqui:
 
 - ![DevOps](https://img.shields.io/badge/DevOps-Culture-green?style=plastic&logo=azuredevops)
-- 
+- ![Linux](https://img.shields.io/badge/Linux-Linux-orange?style=plastic&logo=linux)
+
 
